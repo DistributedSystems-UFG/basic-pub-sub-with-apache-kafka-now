@@ -1,2 +1,2 @@
 # pub-sub-basics-with-kafka
-Very simple pub-sub example
+Topics for numbers odd and even
